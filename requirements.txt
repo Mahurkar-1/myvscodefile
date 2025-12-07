@@ -1,0 +1,6 @@
+langchain #Core LangChain framework.
+langchain_community #Community integrations (Chroma, TextLoader, etc.).
+langchain_google_genai #Gemini LLM + embeddings API wrapper.
+chromadb #Vector database for storing and retrieving embeddings.
+sentence-transformers #Provides embedding models if you want to use non-Gemini embeddings too
+langgraph
